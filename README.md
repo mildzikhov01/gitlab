@@ -27,7 +27,7 @@
 
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
-![Image alt]()
+![Image alt](https://github.com/mildzikhov01/gitlab/blob/main/img/1.png)
 
 ---
 
@@ -79,5 +79,5 @@ build:
 
  ```
  
-![Image alt]()
+![Image alt](https://github.com/mildzikhov01/gitlab/blob/main/img/2.png)
  
